@@ -1,6 +1,13 @@
 # Marketing Campaign Performance Dashboard (Power BI)
 
 An interactive Power BI dashboard that compares marketing campaign performance across regions and channels (Digital vs Traditional), focusing on **spend, revenue and ROI**.
+
+
+
+
+
+
+
 <img width="530" height="332" alt="dashboard" src="https://github.com/user-attachments/assets/02f38ccd-0d92-42c4-91c1-16fbafc97b9f" />
 
 
